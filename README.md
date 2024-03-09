@@ -1,1 +1,2 @@
-,
+
+The objective of the laboratory assignment was to design and implement an application that simulates customer queues, considering various aspects that can lead to better streamlining. This application simulates the arrival of a series of customers to a store, taking into account their placement in queues and monitoring the time they spend waiting in the queue, as well as the time each spends being served. To calculate the waiting time, one must know the arrival time of the customer and the service time, both randomly generated for each individual customer to ensure variability among them.
